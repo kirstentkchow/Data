@@ -1,4 +1,4 @@
-﻿Year,imdb,Title,clean_test,binary,budget,domgross,grosscode
+Year,imdb,Title,clean_test,binary,budget,domgross,grosscode
 2009,tt0472033,9,nowomen,FAIL,30000000,31749894,1
 2009,tt0472033,9,nowomen,FAIL,30000000,48559999,2
 2008,tt0478087,21,ok,PASS,35000000,81159365,1
