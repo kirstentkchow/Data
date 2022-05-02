@@ -1,4 +1,4 @@
-﻿Year,imdb,Title,clean_test,binary,budget,domgross,intgross,totalgross
+Year,imdb,Title,clean_test,binary,budget,domgross,intgross,totalgross
 2013,tt1711425,21 & Over,notalk,FAIL,13000000,25682380,42195766,67878146
 2012,tt1343727,Dredd 3D,ok,PASS,45000000,13414714,40868994,54283708
 2013,tt2024544,12 Years a Slave,notalk,FAIL,20000000,53107035,158607035,211714070
